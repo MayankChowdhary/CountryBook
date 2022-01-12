@@ -1,8 +1,8 @@
 # CountryBook
-This Country Book Application shows the countries details bsed on the Continent selected.
+This Country Book Application shows the countries' details based on the Continent selected.
 You can select the continent from the drop down menu.
-I have used all the latest technology to buil this app.
-I have used Room Database, Live Data, Glide library, Kotlin coroutines, Retrofit API etc.
+All the latest technology is used to build this app.
+Used Room Database, Live Data, Glide library, Kotlin coroutines, Retrofit API etc.
 
 
 <table style="width:100%">
