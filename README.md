@@ -8,11 +8,11 @@ Click link to download APK :  https://github.com/MayankChowdhary/CountryBook/tre
 
 <table style="width:100%">
   <tr>
-     <td><img src="/screenshots/1642014966746.jpg" >
+     <td><img src="/screenshots/1642014966746.png" >
 </td>
-    <td><img src="screenshots/1642014966787.jpg" >
+    <td><img src="screenshots/1642014966787.png" >
 </td>
-    <td><img src="/screenshots/1642014966800.jpg" >
+    <td><img src="/screenshots/1642014966800.png" >
 </td>
     
     
