@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Continents</string>
+
+    <string-array name="continents">
+        <item>Asia</item>
+        <item>Africa</item>
+        <item>Europe</item>
+        <item>Americas</item>
+        <item>Oceania</item>
+        <item>Antarctic</item>
+    </string-array>
+</resources>
