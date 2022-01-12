@@ -10,9 +10,9 @@ Click link to download APK :  https://github.com/MayankChowdhary/CountryBook/tre
   <tr>
      <td><img src="/screenshots/1642014966746.jpg" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/CountryBook/blob/master/screenshots/1642014966787.jpg" >
+    <td><img src="screenshots/1642014966787.jpg" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/CountryBook/blob/master/screenshots/1642014966800.jpg" >
+    <td><img src="/screenshots/1642014966800.jpg" >
 </td>
     
     
